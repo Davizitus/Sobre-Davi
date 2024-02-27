@@ -22,7 +22,8 @@ Git(Nessa ordem), também consegui conviver bemcom meus colegas e tentei melhora
  10 fui escolhido para ser um dos monitores que ajudariam na proxima turma. " />
 
  <H2 text="Na Turma 11 eu deveia enfrentar minha timidez para assim conseguir ajudar
- meus novos colegas, tive melhor progresso nesse ponto do que na turma 10 " />
+ meus novos colegas, tive melhor progresso nesse ponto do que na turma 10, com o tempo
+ fui conseguindo lidar com minha imidez e a ansiedade " />
 </div>
 )
 

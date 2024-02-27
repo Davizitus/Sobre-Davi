@@ -1,8 +1,8 @@
-function Button(props) {
+function Button(props, id) {
 
 return(
 <div>
-<button>{props.text}</button>
+<button id={id} > {props.text}</button>
 </div>
 )
 
